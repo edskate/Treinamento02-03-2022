@@ -3,6 +3,7 @@
                             "titleBar.activeBackground": "#e8df69"
               },
               "spellchecker.ignoreWordsList": [
+<<<<<<< HEAD
                             "estudos",
                             "Treinamento",
                             "foco",
@@ -12,5 +13,8 @@
                             "detalhes",
                             "código",
                             "Criamos"
+=======
+                            "estudos"
+>>>>>>> 18501ab312b75166fe13a58ff3c5fa643da68bae
               ]
 }
