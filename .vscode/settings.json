@@ -3,6 +3,13 @@
                             "titleBar.activeBackground": "#e8df69"
               },
               "spellchecker.ignoreWordsList": [
-                            "estudos"
+                            "estudos",
+                            "Treinamento",
+                            "foco",
+                            "estudamos",
+                            "muita",
+                            "atenção",
+                            "detalhes",
+                            "código"
               ]
 }
