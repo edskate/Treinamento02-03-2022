@@ -3,6 +3,7 @@
                             "titleBar.activeBackground": "#e8df69"
               },
               "spellchecker.ignoreWordsList": [
+<<<<<<< HEAD
                             "estudos",
                             "estudamos"
               ],
@@ -12,5 +13,20 @@
                             "reseta",
                             "substantivo",
                             "vermelho"
+=======
+<<<<<<< HEAD
+                            "estudos",
+                            "Treinamento",
+                            "foco",
+                            "estudamos",
+                            "muita",
+                            "atenção",
+                            "detalhes",
+                            "código",
+                            "Criamos"
+=======
+                            "estudos"
+>>>>>>> 18501ab312b75166fe13a58ff3c5fa643da68bae
+>>>>>>> bc943d572faac54693a67fd6488c0e158884a1a8
               ]
 }
