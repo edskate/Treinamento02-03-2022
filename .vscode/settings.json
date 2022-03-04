@@ -3,6 +3,14 @@
                             "titleBar.activeBackground": "#e8df69"
               },
               "spellchecker.ignoreWordsList": [
-                            "estudos"
+                            "estudos",
+                            "estudamos"
+              ],
+              "cSpell.words": [
+                            "dizer",
+                            "FUNÇÕES",
+                            "reseta",
+                            "substantivo",
+                            "vermelho"
               ]
 }
